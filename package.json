@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/iamshaunjp/rest-api-playlist#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "body-parser": "^1.17.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.9.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-google": "^0.7.1"
   }
 }
